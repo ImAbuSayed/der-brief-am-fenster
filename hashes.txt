@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Der Brief am Fenster
+
+This log tracks the cryptographic history and versioning for the song **Der Brief am Fenster** (der-brief-am-fenster).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T14:25:46.762626 | `v1` | `f3182418636190d8cdc9558ef73994c4b43332276ee9aa8aa11967875027230a` | `3848b55156d23b9861cd9dccab1687f077701537ec971d1425fa739ae98038ce` | `2026-06-28_der-brief-am-fenster-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

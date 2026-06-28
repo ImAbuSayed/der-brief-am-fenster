@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/der-brief-am-fenster/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Der Brief am Fenster](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-brief-am-fenster/) |
+| **Get License** | [Request Licensing for Der Brief am Fenster](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-brief-am-fenster/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f3182418636190d8cdc9558ef73994c4b43332276ee9aa8aa11967875027230a` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
