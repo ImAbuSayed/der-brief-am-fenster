@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Der Brief am Fenster im Regen, steig in mein'n Wagen ein
+> Schwarzer SUV getönt, heute Nacht sind wir allein
+> Spür die 808, Babe, unser Vibe ist hypnotisch
+> Wie du meine Lippen anschaust, so verdammt erotisch
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
